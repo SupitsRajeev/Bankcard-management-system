@@ -1,1 +1,0 @@
-# Bankcard-management-system
