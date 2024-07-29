@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BankCard
+comment1.params=Balanceamount\ Bankaccount\ Issuer_bank\ Cardid
+comment1.target=BankCard(double,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getcardid()
+comment3.params=
+comment3.target=java.lang.String\ getclientname()
+comment4.params=
+comment4.target=java.lang.String\ getissuer_bank()
+comment5.params=
+comment5.target=java.lang.String\ getbankaccount()
+comment6.params=
+comment6.target=double\ getbalanceamount()
+comment7.params=client1
+comment7.target=void\ setclientname(java.lang.String)
+comment8.params=Balanceamount1
+comment8.target=void\ setbalanceamount(double)
+comment9.params=
+comment9.target=void\ display()
+numComments=10
